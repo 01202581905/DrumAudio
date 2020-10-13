@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.wrapper {
+    width: 80%;
+    max-width: 700px;
+    margin: 0 auto;
+    position: relative;
+}
+.key {
+    position: absolute;
+}
+#Q {
+    top: 14%;
+    left: 22%;
+}
+#W {
+    top: 14%;
+    left: 41%;
+}
+#E {
+    top: 14%;
+    right: 31%;
+}
+
+#R {
+    top: 14%;
+    right: 16%;
+}
+
+#Left {
+    top: 50%;
+    left: 20%;
+}
+
+#Top {
+    top: 32%;
+    left: 37%;
+}
+
+#Right {
+    top: 32%;
+    right: 39%;
+}
+
+#Bottom {
+    top: 41%;
+    right: 34%;
+}
+
+#Space {
+    bottom: 35%;
+    right: 42%;
+}
